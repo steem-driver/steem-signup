@@ -9,4 +9,6 @@ body {
     text-align: left;
     background-color: #fff
 }
-
+.img-fluid{
+    width: 75%;
+}
